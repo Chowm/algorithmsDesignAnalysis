@@ -1,4 +1,4 @@
-package leetCode;
+package algorithmsDesignAnalysis;
 
 import java.util.Scanner;
 /**************************
